@@ -3,6 +3,7 @@ abstract: 'Implementation of new Mollie API'
 author:
   - 'Peter Stuifzand <peter@stuifzand.eu>'
 build_requires:
+  Test::Exception: 0
   Test::More: 0.88
 configure_requires:
   Module::Build::Tiny: 0.027
@@ -28,4 +29,4 @@ resources:
   bugtracker: https://github.com/stuifzand-software/Business-MollieAPI/issues
   homepage: https://github.com/stuifzand-software/Business-MollieAPI
   repository: https://github.com/stuifzand-software/Business-MollieAPI.git
-version: 0.02
+version: 0.03
