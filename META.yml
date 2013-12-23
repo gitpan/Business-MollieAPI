@@ -8,7 +8,7 @@ build_requires:
 configure_requires:
   Module::Build::Tiny: 0.030
 dynamic_config: 0
-generated_by: 'Dist::Milla version v0.9.7, Dist::Zilla version 4.300032, CPAN::Meta::Converter version 2.120921'
+generated_by: 'Dist::Milla version v1.0.3, Dist::Zilla version 4.300035, CPAN::Meta::Converter version 2.120921'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -26,9 +26,10 @@ requires:
   JSON::XS: 0
   LWP::UserAgent: 0
   Moo: 0
+  URI: 0
   perl: 5.008005
 resources:
   bugtracker: https://github.com/stuifzand-software/Business-MollieAPI/issues
   homepage: https://github.com/stuifzand-software/Business-MollieAPI
   repository: https://github.com/stuifzand-software/Business-MollieAPI.git
-version: 0.04
+version: 0.05
