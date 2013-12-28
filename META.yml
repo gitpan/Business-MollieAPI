@@ -24,6 +24,7 @@ no_index:
     - examples
 requires:
   JSON::XS: 0
+  LWP::Protocol::https: 0
   LWP::UserAgent: 0
   Moo: 0
   URI: 0
@@ -32,4 +33,4 @@ resources:
   bugtracker: https://github.com/stuifzand-software/Business-MollieAPI/issues
   homepage: https://github.com/stuifzand-software/Business-MollieAPI
   repository: https://github.com/stuifzand-software/Business-MollieAPI.git
-version: 0.05
+version: 0.06
