@@ -33,4 +33,6 @@ resources:
   bugtracker: https://github.com/stuifzand-software/Business-MollieAPI/issues
   homepage: https://github.com/stuifzand-software/Business-MollieAPI
   repository: https://github.com/stuifzand-software/Business-MollieAPI.git
-version: 0.07
+version: 0.08
+x_contributors:
+  - 'Christiaan Kras <c.kras@pcc-online.net>'
