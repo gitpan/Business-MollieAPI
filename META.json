@@ -63,9 +63,10 @@
          "web" : "https://github.com/stuifzand-software/Business-MollieAPI"
       }
    },
-   "version" : "0.08",
+   "version" : "0.09",
    "x_contributors" : [
-      "Christiaan Kras <c.kras@pcc-online.net>"
+      "Christiaan Kras <c.kras@pcc-online.net>",
+      "Peter Stuifzand <peter.stuifzand@gmail.com>"
    ]
 }
 

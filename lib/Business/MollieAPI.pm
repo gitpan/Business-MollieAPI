@@ -2,7 +2,7 @@ package Business::MollieAPI;
 
 use strict;
 use 5.008_005;
-our $VERSION = '0.08';
+our $VERSION = '0.09';
 
 use Moo;
 use URI;
@@ -98,11 +98,11 @@ Business::MollieAPI - Implementation of new Mollie API
 
   my $issuers = $api->issuers->all;
 
-  my $payment = $api->payments->create({
+  my $payment = $api->payments->create(
     amount      => '12.34',
     redirectUrl => 'http://example.com/test.php',
     description => 'Order #123',
-  });
+  );
 
   # Save $payment->{id} for later
 
