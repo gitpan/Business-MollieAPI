@@ -26,7 +26,7 @@
    "prereqs" : {
       "configure" : {
          "requires" : {
-            "Module::Build::Tiny" : "0.030"
+            "Module::Build::Tiny" : "0.036"
          }
       },
       "develop" : {
@@ -63,7 +63,7 @@
          "web" : "https://github.com/stuifzand-software/Business-MollieAPI"
       }
    },
-   "version" : "0.09",
+   "version" : "0.10",
    "x_contributors" : [
       "Christiaan Kras <c.kras@pcc-online.net>",
       "Peter Stuifzand <peter.stuifzand@gmail.com>"

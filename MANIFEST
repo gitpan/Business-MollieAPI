@@ -12,7 +12,9 @@ lib/Business/MollieAPI/Issuers.pm
 lib/Business/MollieAPI/Methods.pm
 lib/Business/MollieAPI/Payments.pm
 lib/Business/MollieAPI/Resource.pm
+lib/Business/MollieAPI/TestLog.pm
 t/basic.t
 t/issuers.t
+t/logger.t
 t/methods.t
 t/release-pod-syntax.t
